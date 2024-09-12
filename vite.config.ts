@@ -9,5 +9,5 @@ export default defineConfig({
     }
   },
   // base should be '/' for root domain
-  base: '/',
+  base: './',
 });
